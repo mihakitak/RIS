@@ -245,12 +245,6 @@ Entiteta predstavlja en kuharski recept:
 
 ## REST API dokumentacija
 
-### Pregled
-
-- **Osnovni URL backenda:** `http://localhost:8081`
-- **Format podatkov:** JSON
-- **Avtentikacija:** ni (javni API, namenjen učni/demo uporabi)
-
 Glavna entiteta: **Recipe**
 
 ### Shema objekta `Recipe`
