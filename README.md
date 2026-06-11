@@ -298,28 +298,6 @@ Vrne seznam vseh receptov.
 - Parametri: /
 - Telo: /
 
-**Odgovor – 200 OK**
-
-```json
-[
-  {
-    "id": 1,
-    "name": "Čokoladna torta",
-    "ingredients": "200 g čokolade
-3 jajca
-150 g sladkorja",
-    "instructions": "Segrej pečico na 180 °C ..."
-  },
-  {
-    "id": 2,
-    "name": "Palačinke",
-    "ingredients": "2 jajci
-300 ml mleka
-150 g moke",
-    "instructions": "Vse sestavine zmešaj v gladko zmes ..."
-  }
-]
-```
 
 Frontend nad tem seznamom izvaja paginacijo (npr. prikaz 5 receptov na stran).
 
