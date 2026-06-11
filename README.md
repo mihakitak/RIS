@@ -305,13 +305,6 @@ Frontend nad tem seznamom izvaja paginacijo (npr. prikaz 5 receptov na stran).
 
 #### 2. `GET /recipe/{id}`
 
-Vrne podrobnosti enega recepta.
-
-**Zahtevek**
-
-- Pot: `/recipe/1`
-- Telo: /
-
 **Odgovori**
 
 - **200 OK** – recept najden
